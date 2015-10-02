@@ -5,7 +5,7 @@ for example, we have
 
 ![example 1](images/read_interval.png "readInterval example")
 
-Horizontal lines is time-line for measurments with *id* 0-3. 
+Horizontal lines are time-line for measurments with *id* 0-3. 
 
 ## read intervals
 
