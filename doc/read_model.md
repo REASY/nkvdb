@@ -1,5 +1,5 @@
 Again. nkvdb is not key value database. You can`t get value by key, but you
-can query data by interval or query data in time point.
+can query data by interval or query data for the certain time point.
 
 for example, we have
 
